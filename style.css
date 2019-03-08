@@ -1,8 +1,6 @@
 body {
-	background-size: cover;
 	background-image: url("media/pluto.jpg");
-	text-align: center;
-
+	background-repeat: repeat;
 }
 
 h2 {
