@@ -1,7 +1,8 @@
 body {
 	background-size: cover;
-	background-image: url("media/pluto.jpg")
+	background-image: url("media/pluto.jpg");
 	text-align: center;
+
 }
 
 h2 {
