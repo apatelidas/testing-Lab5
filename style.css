@@ -22,7 +22,7 @@ table, td, th {
 	border: 5px solid #FSFFFA;
 }
 td, th {
-	text-align-all: center;
+	text-align: center;
 	height: 20px;
 	padding: 10px;
 	color: #FFFFFF;
