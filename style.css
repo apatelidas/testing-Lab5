@@ -15,5 +15,9 @@ table {
 	border: 2px;
 }
 table, td, th {
+	font-family: "Apple Chancery", cursive;
 	color: #mistyrose;
+	height: 35px;
+	border: 5px solid #snow;
+}
 	
