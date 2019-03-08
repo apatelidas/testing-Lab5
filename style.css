@@ -9,21 +9,21 @@ h2 {
 	text-align: center;
 }
 table {
-	background-color: #snow;
+	background-color: #FFB6C1;
 	margin-left: auto;
 	margin-right: auto;
 	border: 2px solid #FFFFFF;
-	padding: 40px;
+	padding: 20px;
 }
 table, td, th {
 	font-family: "Apple Chancery", cursive;
 	color: #FSFFFA;
-	height: 35px;
+	height: 20px;
 	border: 5px solid #FSFFFA;
 }
 td, th {
 	text-align-all: center;
-	height: 35px;
+	height: 20px;
 	padding: 10px;
 	color: #FFFFFF;
 }
