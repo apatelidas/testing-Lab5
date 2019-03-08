@@ -22,7 +22,8 @@ table, td, th {
 	border: 5px solid #FSFFFA;
 }
 td, th {
-		text-align-all: center;
-		height: 35px;
-		padding: 10px;
+	text-align-all: center;
+	height: 35px;
+	padding: 10px;
+	color: #FFFFFF;
 }
