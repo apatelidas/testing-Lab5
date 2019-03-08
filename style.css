@@ -1,5 +1,11 @@
 body {
 	background-size: cover;
-	backround-color: C0C0C0;
-	
+	background-color: C0C0C0;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Apple Chancery", cursive;
+	color: #808000;
+	text-align: center;
 }
